@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">targetApp</string>
+    <string name="theme_text">Will change text!</string>
+    <string name="rro_drawable">待替换的drawable：</string>
+    <string name="rro_mipmap">待替换的mipmap：</string>
+    <string name="rro_color">待替换的textColor：</string>
+    <string name="rro_text">待替换的text：</string>
+    <string name="rro_dimens">待替换的dimens：</string>
+
+</resources>

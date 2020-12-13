@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="theme_dimen">200dp</dimen>
+    <dimen name="widget_h">80dp</dimen>
+    <dimen name="widget_w">150dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="theme_text">after Will change text!</string>
+    <string name="app_name">After RRO</string>
+
+    <string name="rro_drawable">替换后的drawable：</string>
+    <string name="rro_mipmap">替换后的mipmap：</string>
+    <string name="rro_color">替换后的textColor：</string>
+    <string name="rro_text">替换后的text：</string>
+    <string name="rro_dimens">替换后的dimens：</string>
+
+</resources>
